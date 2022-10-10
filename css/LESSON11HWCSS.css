@@ -1,0 +1,35 @@
+*{
+   scroll-behavior: smooth;
+
+}
+.section1 {
+    background-color: #0f6674;
+}
+
+.portflolio {
+    font-size: 45px;
+}
+
+.start-text {
+    font-size: 50px;
+}
+
+.textarea input {
+    outline: none;
+    color: black;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 1px solid #9d9d9d;
+    background: none;
+    width: 100%;
+}
+
+.underfooter{
+    background-color: black;
+}
+
+
+
+
+
